@@ -86,12 +86,6 @@ ul li a:hover {
     box-shadow: 10px 5px 5px #ff6f00;
 }
 
-.docContainer a {
-    text-decoration: none;
-    cursor: pointer;
-    color: #423d3d;
-}
-
 
 @media (max-width: 654px) {
     .docContainer {
